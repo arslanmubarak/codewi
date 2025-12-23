@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393682620702",
+    "project_id": "ridingapp-b4414",
+    "storage_bucket": "ridingapp-b4414.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393682620702:android:7672ae68e765506c07b90f",
+        "android_client_info": {
+          "package_name": "com.muzaitechsols.muzaride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAp7fKgXkwhwLrTlUb0s419CkDUXcmv_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
